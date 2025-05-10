@@ -1,0 +1,17 @@
+TASK 3
+Find the zip file for the task named “Pizza+Place+Sales.zip” on the drive. It contains four CSV files: Orders, Order Details, Pizzas, and Pizza Types. You’ll also find a data dictionary that describes each dataset
+Tip: You can join the four CSV files into a single data frame before you start your analysis.
+Pizza Place Sales
+A year's worth of sales from a fictitious pizza place, including the date and time of each order and the pizzas served, with additional details on the type, size, quantity, price, and ingredients.
+Recommended Analysis
+1. What is the total revenue/sales?
+2. Find the total quantity sold.
+3. Find the total orders.
+4. How many pizza types do they sell?
+5. Find the average price of the pizzas.
+6. What are the peak hours of sales?
+7. Find the total sales made on each day of the week. Which day of the week is when sales are made the most?
+8. Find the top 5 bestselling pizzas.
+9. Find the sales made in each month. Any trend noticeable?
+10. Are there pizza types that are not doing well on the menu?
+
